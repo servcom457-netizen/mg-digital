@@ -1,0 +1,6 @@
+{
+  "name": "Masseillan Global Digital",
+  "description": "Marketplace internationale de produits numériques avec boutiques créateurs, commission transparente de 5 %, paiements MonCash, NatCash, PayPal et USDT BEP20.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
